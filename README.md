@@ -42,3 +42,14 @@ Farm-management-sysem-dbmsminiproject/
 ├── login.php               # Login handler
 ├── register.php            # Farmer registration
 ├── README.md               # Project documentation
+
+## 🛠 Setup Instructions
+
+Follow the steps below to run the project locally using XAMPP:
+
+### Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/arkprocoder/Farm-management-sysem-dbmsminiproject.git
+
+
