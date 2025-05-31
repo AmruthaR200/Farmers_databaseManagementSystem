@@ -1,5 +1,5 @@
 
-#  Farm Management System - DBMS Mini Project
+#  Farmers Database Management System - DBMS Mini Project
 
 A web-based application to manage and monitor farming activities such as crop cultivation, farmer records, sales, and equipment management. This project was developed as part of a Database Management Systems (DBMS) mini project using **PHP**, **MySQL**, **HTML**, and **CSS**.
 
