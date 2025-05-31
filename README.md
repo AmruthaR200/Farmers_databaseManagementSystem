@@ -28,7 +28,7 @@ This project demonstrates database connectivity, CRUD operations, form handling,
 
 ## 📁 Folder Structure
 
-```plaintext
+
 Farm-management-sysem-dbmsminiproject/
 │
 ├── admin/                  # Admin panel pages
