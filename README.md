@@ -54,49 +54,55 @@ git clone https://github.com/AmruthaR200/Farmers_databaseManagementSystem.git
 
 ### Step 2: Move Project to XAMPP Directory
 
+Move the cloned project folder to your XAMPP `htdocs` directory:
+
 ```bash
 C:\xampp\htdocs\Farmers_databaseManagementSystem\
 
 ### Step 3: Start XAMPP Server
-Open XAMPP Control Panel
 
-Start the following services:
-Apache
-MySQL
+- Open the **XAMPP Control Panel**.
+- Start the following services:
+  - Apache
+  - MySQL
 
 ### Step 4: Import the Database
-1 Open your browser and go to:
-```bash
-http://localhost/phpmyadmin
 
-2 Create a new database named: farmersdb
+1. Open your browser and go to:  
+   `http://localhost/phpmyadmin`
 
-3 Click the Import tab.
+2. Create a new database named:  
+   `farmersdb`
 
-4 Choose the file : database/farmersdb.sql
+3. Click the **Import** tab.
 
-5 Click Go to import the database.
+4. Choose the file:  
+   `database/farmersdb.sql`
+
+5. Click **Go** to import the database.
 
 ### Step 5: Run the Application
-Open your browser and navigate to:
-```bash
-http://localhost/Farmers_databaseManagementSystem/
 
-🔐 Default Login Credentials
-Admin:
-Username: admin
+Open your browser and navigate to:  
+`http://localhost/Farmers_databaseManagementSystem/`
 
-Password: admin123
+---
 
-Farmer:
-Username: farmer1
+## 🔐 Default Login Credentials
 
-Password: farmer123
+### Admin:
+- Username: `admin`  
+- Password: `admin123`
 
+### Farmer:
+- Username: `farmer1`  
+- Password: `farmer123`
+
+---
 
 ## 📜 License
 
 This project is for educational purposes only.  
-Feel free to use and modify it as per your needs.
+Feel free to use and modify it as needed.
 
 ---
