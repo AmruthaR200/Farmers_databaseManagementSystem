@@ -28,7 +28,7 @@ This project demonstrates database connectivity, CRUD operations, form handling,
 
 ## 📁 Folder Structure
 
-
+```bash
 Farm-management-sysem-dbmsminiproject/
 │
 ├── admin/                  # Admin panel pages
@@ -42,7 +42,7 @@ Farm-management-sysem-dbmsminiproject/
 ├── login.php               # Login handler
 ├── register.php            # Farmer registration
 ├── README.md               # Project documentation
-
+```
 ## 🛠 Setup Instructions
 
 Follow the steps below to run the project locally using XAMPP:
@@ -51,14 +51,14 @@ Follow the steps below to run the project locally using XAMPP:
 
 ```bash
 git clone https://github.com/AmruthaR200/Farmers_databaseManagementSystem.git
-
+```
 ### Step 2: Move Project to XAMPP Directory
 
 Move the cloned project folder to your XAMPP `htdocs` directory:
 
 ```bash
 C:\xampp\htdocs\Farmers_databaseManagementSystem\
-
+```
 ### Step 3: Start XAMPP Server
 
 - Open the **XAMPP Control Panel**.
@@ -68,18 +68,18 @@ C:\xampp\htdocs\Farmers_databaseManagementSystem\
 
 ### Step 4: Import the Database
 
-1. Open your browser and go to:  
+1. Open your browser and go to:
    `http://localhost/phpmyadmin`
 
-2. Create a new database named:  
+3. Create a new database named:  
    `farmersdb`
 
-3. Click the **Import** tab.
+4. Click the **Import** tab.
 
-4. Choose the file:  
+5. Choose the file:  
    `database/farmersdb.sql`
 
-5. Click **Go** to import the database.
+6. Click **Go** to import the database.
 
 ### Step 5: Run the Application
 
